@@ -1,0 +1,5 @@
+--- suites.py
++++ suites.py
+@@ -1 +1 @@
+-modules = ('splash2', 'parsec', 'local')
++modules = ('splash2', 'parsec', 'cpu2006', 'local')

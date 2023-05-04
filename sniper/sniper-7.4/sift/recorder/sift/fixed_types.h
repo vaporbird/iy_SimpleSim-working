@@ -1,0 +1,1 @@
+/home/vanyo/sniper/sniper-7.4/sift/recorder/../../common/misc/fixed_types.h

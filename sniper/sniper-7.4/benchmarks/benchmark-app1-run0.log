@@ -1,0 +1,6 @@
+[SPLASH] Benchmarks to run: fft
+
+[SPLASH] [========== Running benchmark fft ==========]
+[SPLASH] Setting up run directory: /tmp/tmp8A5_LL
+[SPLASH] Running '/home/vanyo/sniper/sniper-7.4/record-trace --routine-tracing -o /tmp/tmpbbMRlW/run_benchmarks -e 1 -r 1 -s 1 --roi -- /home/vanyo/sniper/sniper-7.4/benchmarks/splash2/splash2/codes/kernels/fft/FFT -m18 -p2':
+[SPLASH] [---------- Beginning of output ----------]

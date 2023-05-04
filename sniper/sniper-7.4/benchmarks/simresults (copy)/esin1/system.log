@@ -1,0 +1,1 @@
+0          [17550]  [  ]  [memory_manager.cc   : 115]  *ERROR* The cache block size of the l3_cache is not the same as the l1_icache (64)
